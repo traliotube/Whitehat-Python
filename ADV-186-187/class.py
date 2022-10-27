@@ -32,6 +32,7 @@ def getData():
 
 
 def sendData():
+    getData()
     global username
     global userCode
     global messageEntry
@@ -39,7 +40,6 @@ def sendData():
     cipherCode = encrypt("Password", message).hex()
     insertData = firebase.put("/", userCode, cipherCode)
     print(insertData)
-    getData()
     messageEntry.delete(0, END)
 
 
