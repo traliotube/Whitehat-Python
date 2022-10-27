@@ -9,6 +9,8 @@ loginWindow = Tk()
 loginWindow.geometry("400x400")
 loginWindow.config(bg='#AB92BF')
 
+lastValue = ""
+
 
 def getData():
     global messageText
@@ -24,7 +26,7 @@ def getData():
     if (friendData != None):
         decryptedText = decrypt(
             "Password", bytes.fromhex(friendData)).decode("utf-8")
-        if (decryptedText != lastValue):
+        if (decryptedText not in lastValue):
             messageText.insert(END, decryptedText+"\n")
             lastValue = decryptedText
 
@@ -38,6 +40,7 @@ def sendData():
     insertData = firebase.put("/", userCode, cipherCode)
     print(insertData)
     getData()
+    messageEntry.delete(0, END)
 
 
 def enterRoom():
