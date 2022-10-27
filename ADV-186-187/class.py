@@ -1,13 +1,32 @@
-import firebase
 from tkinter import *
 from simplecrypt import encrypt, decrypt
+from firebase import firebase
 
 firebase = firebase.FirebaseApplication(
-    "https://encryptedchat-165c8-default-rtdb.asia-southeast1.firebasedatabase.app", None)
+    'https://encryptedchat-165c8-default-rtdb.asia-southeast1.firebasedatabase.app/', None)
 
 loginWindow = Tk()
 loginWindow.geometry("400x400")
 loginWindow.config(bg='AB92BF')
+
+
+def getData():
+    global messageText
+    global lastValue
+    global userCode
+    global friendCode
+    encryptedData = firebase.get("/", userCode)
+    decryptedText = decrypt("Password", bytes.fromhex(
+        encryptedData)).decode("utf-8")
+    messageText.insert(END, decryptedText+"\n")
+
+    friendData = firebase.get("/", friendCode)
+    if (friendData != None):
+        decryptedText = decrypt(
+            "Password", bytes.fromhex(friendData)).decode("utf-8")
+        if (decryptedText != lastValue):
+            messageText.insert(END, decryptedText+"\n")
+            lastValue = decryptedText
 
 
 def sendData():
@@ -16,8 +35,9 @@ def sendData():
     global messageEntry
     message = f"{username}: {messageEntry.get()}"
     cipherCode = encrypt("Password", message).hex()
-    put = firebase.put("/", userCode, cipherCode)
-    print(put)
+    insertData = firebase.put("/", userCode, cipherCode)
+    print(insertData)
+    getData()
 
 
 def enterRoom():
@@ -29,7 +49,6 @@ def enterRoom():
     userCode = userCodeEntry.get()
     friendCode = friendCodeEntry.get()
     username = usernameEntry.get()
-    sendData()
     loginWindow.destroy()
 
     messageWindow = Tk()
@@ -47,7 +66,7 @@ def enterRoom():
     messageEntry.place(relx=0.6, rely=0.8, anchor=CENTER)
 
     btnSend = Button(messageWindow, text="Send", font='arial 13',
-                     bg="D6CA98", fg="black", padx=10, relief=FLAT)
+                     bg="D6CA98", fg="black", padx=10, relief=FLAT, command=sendData)
     btnSend.place(relx=0.5, rely=0.9, anchor=CENTER)
 
     messageWindow.mainloop()
