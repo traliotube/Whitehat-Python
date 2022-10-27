@@ -1,8 +1,7 @@
 from tkinter import *
 from tkinter.messagebox import showinfo
 from simplecrypt import encrypt, decrypt
-from tkinter import filedialog
-import os
+from tkinter import filedialog as fd
 
 root = Tk()
 root.geometry("400x250")
@@ -20,7 +19,7 @@ def startDecryption():
     decryptionTextData.place(relx=0.5, rely=0.35, anchor=CENTER)
 
     btn_open_file = Button(
-        decryptionWindow, text="Choose File..", font='arial 13')
+        decryptionWindow, text="Choose File", font='arial 13', command=viewData)
     btn_open_file.place(relx=0.5, rely=0.8, anchor=CENTER)
 
     decryptionWindow.mainloop()
@@ -55,12 +54,21 @@ def setData():
     global fileNameEntry
     global encryptionTextData
     file = open(f"{fileNameEntry.get()}.txt", "w")
-    cipherCode = encrypt("Password", encryptionTextData.get(0, END)).hex()
+    cipherCode = encrypt("Password", encryptionTextData.get(0.0, END)).hex()
     print(cipherCode)
     file.write(cipherCode)
     file.close()
-    fileNameEntry.delete(0, END)
     showinfo("Success", "Encrypted file successfully")
+
+
+def viewData():
+    global decryptionTextData
+
+    textFile = fd.askopenfilename(
+        title="Open Encrypted File", filetypes=(("Text Files", "*.txt"),))
+    data = open(textFile, 'r').read()
+    decryptedText = decrypt("Password", bytes.fromhex(data)).decode("utf-8")
+    decryptionTextData.insert(0.0, decryptedText)
 
 
 heading_label = Label(root, text="Encryption & Decryption",
