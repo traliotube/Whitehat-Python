@@ -1,6 +1,6 @@
 import hashlib
 from tkinter import *
-from tkinter.messagebox import showinfo
+from tkinter.messagebox import showinfo, showerror
 from firebase import firebase
 
 registrationWindow = Tk()
@@ -11,7 +11,20 @@ firebase = firebase.FirebaseApplication(
 
 
 def login():
-    print("login function")
+    global loginUsernameEntry
+    global loginPasswordEntry
+
+    password = hashlib.md5(loginPasswordEntry.get().encode()).hexdigest()
+    getPassword = firebase.get("/", loginUsernameEntry.get())
+    if (getPassword == password):
+        showinfo("Success", "Logged in Successfully")
+    elif (getPassword == None):
+        showerror("Failure", "User not registered. Please register first.")
+    else:
+        showerror(
+            "Failure", "Failed to log in. Please check your username and password")
+    loginUsernameEntry.delete(0, END)
+    loginPasswordEntry.delete(0, END)
 
 
 def register():
