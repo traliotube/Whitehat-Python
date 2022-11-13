@@ -1,0 +1,650 @@
+Power (Watts),Official Name of Satellite
+100,SOCRATES
+100,Project for On-Board Autonomy (Proba 1)
+1000,Cosmos 2459
+1000,Hinode
+1000,TacSat 4
+1000,Cosmos 2500
+1000,Cosmos 2491
+1000,Cosmos 2516
+1000,Cosmos 2485
+1000,Cosmos 2478
+1000,Cosmos 2514
+1000,Cosmos 2477
+1000,Cosmos 2475
+1000,Cosmos 2457
+1000,Cosmos 2461
+1000,Cosmos 2464
+1000,Cosmos 2465
+1000,Cosmos 2466
+1000,Cosmos 2474
+1000,Cosmos 2458
+1000,Cosmos 2456
+1000,Cosmos 2476
+1000,Cosmos 2460
+10000,Intelsat 907
+10000,Echostar 10
+10000,Intelsat 901
+10000,AMC-9
+10000,Astra 3B
+10000,Anik F1R
+10000,Echostar 8 
+10000,Eutelsat 9A
+10000,NSS-6
+10000,Galaxy-16
+10000,WildBlue 1
+10000,Echostar 3 
+10000,Intelsat 905
+10000,AsiaSat-3S
+1040,Swift
+10400,Galaxy-11
+10500,Apstar 9
+10500,Star 1 C1
+10600,Telstar 12
+10600,Optus and Defence C1
+1065,SMOS
+10800,Measat 3
+110,CFESat
+1100,CartoSat 1
+11000,Intelsat 25
+11000,Eutelsat Hot Bird 13D
+11000,Eutelsat KA-SAT 9A
+11000,Intelsat 10-02
+11000,Thuraya 2
+11000,BermudaSat-1
+11000,Eutelsat 5 West A
+1136,USA 154
+1136,USA 156
+1136,USA 166
+1136,USA 168
+1136,USA 183
+1136,USA 150
+1136,USA 145
+1136,USA 196
+1136,USA 132
+1136,USA 201
+1136,USA 180
+1136,USA 151
+1136,USA 206
+1136,USA 178
+1136,USA 239
+1136,USA 256
+1136,USA 258
+1136,USA 262
+1136,USA 251
+1136,USA 242
+1136,USA 175
+1136,USA 248
+1136,USA 177
+1136,USA 260
+1174,Coriolis
+120,Gonets M-03
+120,Gonets M-18
+120,Gonets M-17
+120,DLR Tubsat
+120,Bispectral InfraRed Detector 2 (Bird 2)
+120,Gonets D1-14
+120,Gonets M-04
+120,Gonets M-19
+120,Gonets M-11
+120,SDS-4
+120,Gonets M-12
+120,Gonets M-13
+120,Gonets M-14
+120,Gonets M-20
+120,Gonets M-05
+120,Gonets M-16
+1200,KazEOSat-1
+1200,IRS-P6
+1200,Skynet 4C
+1200,NATO-4B
+1200,Skynet 4E
+1200,Skynet 4F
+1200,Measat 2
+12000,Alphasat I-XL
+12000,Astra 1KR
+12000,Telstar 14R
+12000,Nimiq 4
+12000,Eutelsat 7 West A
+12000,Intelsat 12
+12300,Spaceway F2
+12300,Spaceway F1
+1240,USA 153
+1240,USA 113
+1240,USA 167
+1240,USA 170
+1240,USA 135
+1240,USA 148
+12690,Eutelsat 117 West A
+12690,Eutelsat 113 West-A
+12700,SES-9
+1300,Kompsat-3
+1300,Kompsat-3A
+13000,USA 244
+13000,Astra 2G
+13000,Astra 2E
+13000,INMARSAT 5 F2
+13000,INMARSAT 5 F1
+13000,Eutelsat 172A
+13000,Echostar 7 
+13000,INMARSAT 4 F2
+13000,Astra 1L
+13000,Eutelsat 117 West B
+13000,DirecTV-7S
+13000,USA 195
+13000,USA 204
+13000,USA 211
+13000,USA 233
+13000,USA 243
+13000,USA 263
+13000,INMARSAT 4 F3
+13000,INMARSAT 4 F1
+13200,Eutelsat 36B
+1360,Oceansat-2
+13900,DirecTV-9S
+14,LAPAN-Tubsat
+140,UNIFORM 1
+1400,Iridium 55
+1400,Iridium 54
+1400,Iridium 39
+1400,Iridium 35
+1400,Iridium 21A
+1400,Iridium 10
+1400,Iridium 18
+1400,Iridium 13
+1400,Iridium 14A
+1400,Iridium 53
+1400,Iridium 12
+1400,Iridium 11A
+1400,Iridium 22
+1400,Iridium 34
+1400,Iridium 15
+1400,Iridium 52
+1400,Iridium 5
+1400,Iridium 50
+1400,Kompsat-5
+1400,Iridium 37
+1400,Iridium 49
+1400,Iridium 46
+1400,Iridium 45
+1400,Iridium 43
+1400,Iridium 42
+1400,Iridium 41
+1400,Iridium 40
+1400,Iridium 47
+1400,Iridium 56
+1400,Iridium 20A
+1400,Iridium 32
+1400,Iridium 51
+1400,Iridium 25
+1400,Iridium 23
+1400,Iridium 59
+1400,Iridium 95
+1400,Iridium 30
+1400,Iridium 31
+1400,Iridium 94
+1400,Iridium 91
+1400,Iridium 58
+1400,Iridium 90
+1400,Iridium 3
+1400,Iridium 84
+1400,Iridium 82
+1400,Iridium 81
+1400,Iridium 80
+1400,Iridium 8
+1400,Iridium 86
+1400,Iridium 57
+1400,Iridium 19
+1400,Iridium 83
+1400,Iridium 96
+1400,Thor-3
+1400,Iridium 98
+1400,Iridium 6
+1400,Iridium 60
+1400,Iridium 61
+1400,Iridium 62
+1400,Iridium 64
+1400,Iridium 65
+1400,Iridium 66
+1400,Iridium 67
+1400,Iridium 97
+1400,Iridium 68
+1400,Iridium 7
+1400,Iridium 70
+1400,Iridium 72
+1400,Iridium 74
+1400,Iridium 75
+1400,Iridium 76
+1400,Iridium 77
+14000,Garuda-1
+14000,Thaicom-4
+14000,Express-AM6
+14000,Amazonas-3
+14000,Hispasat 1E
+14000,Eutelsat Hot Bird 13B
+1420,Galileo IOV-1 PFM
+1420,Galileo IOV-1 FM2
+1420,Galileo IOV-2 FM3
+1420,Galileo IOV-2 FM4
+1430,GSAT-12
+14500,Eutelsat Hot Bird 13C
+1485,USA 149
+1485,USA 159
+1485,USA 176
+1485,USA 130
+150,"Gravity Recovery and Climate Experiment (Grace 1, Tom and Jerry)"
+150,"Gravity Recovery and Climate Experiment (Grace 2, Tom and Jerry)"
+1500,O3b PFM
+1500,Globalstar M065
+1500,Astra 3A
+1500,O3B FM11
+1500,Globalstar M066
+1500,O3B FM10
+1500,O3B FM09
+1500,O3b FM08
+1500,O3b FM07
+1500,O3B FM12
+1500,O3b FM06
+1500,O3b FM05
+1500,Globalstar M072
+1500,Astra 2D
+1500,Globalstar M071
+1500,Globalstar M070
+1500,Globalstar M069
+1500,Globalstar M068
+1500,Globalstar M067
+1500,O3b FM03
+1500,Globalstar M029
+1500,Globalstar M039
+1500,O3b FM02
+1500,O3b FM04
+1500,Globalstar M063
+1500,SDO
+1500,Globalstar M059
+1500,Globalstar M056
+1500,Pléiades HR1A 
+1500,Globalstar M027
+1500,Globalstar M040
+1500,Globalstar M031
+1500,Globalstar M028
+1500,Globalstar M026
+1500,Globalstar M023
+1500,Globalstar FM8
+1500,Globalstar FM4
+1500,Landsat 7
+1500,Globalstar FM37
+15000,Intelsat 19
+15000,Intelsat 1R
+15000,INMARSAT 5 F3
+15300,Amazonas-2
+15500,Anik F1
+15600,Star 1 C4
+160,ORBCOMM FM-7
+160,STSat-2C
+160,ORBCOMM FM-31
+160,ORBCOMM FM-6
+160,ORBCOMM FM-5
+160,ORBCOMM FM-13
+160,ORBCOMM FM-36
+160,ORBCOMM FM-30
+160,ORBCOMM FM-21
+160,ORBCOMM FM-32
+160,ORBCOMM FM-35
+160,ORBCOMM FM-4
+160,ORBCOMM FM-20
+160,ORBCOMM FM-8
+160,ORBCOMM FM-18
+160,ORBCOMM FM-16
+160,ORBCOMM FM-10
+160,ORBCOMM FM-11
+160,ORBCOMM FM-15
+160,ORBCOMM FM-14
+160,ORBCOMM FM-12
+160,ORBCOMM FM-9
+160,ORBCOMM FM-23
+160,ORBCOMM FM-34
+160,ORBCOMM FM-27
+160,ORBCOMM FM-19
+1600,Cosmos 2436
+1600,Cosmos 2424
+1600,Eutelsat 33A
+1600,Cosmos 2443
+1600,Cosmos 2425
+1600,IRNSS-1F
+1600,IRNSS-1G
+1600,IRNSS-1D
+1600,Cosmos 2426
+1600,Cosmos 2419
+1600,Cosmos 2433
+1600,Cosmos 2434
+1600,IRNSS-1E
+1600,Cosmos 2432
+16000,Eutelsat 65 West-A
+16000,Anik F2
+16000,Echostar G1
+16000,ABS-2
+16000,Measat 3B
+16000,Galaxy-28
+16000,Telstar 18
+16100,Echostar 17
+16400,NBN-1A
+1660,IRNSS-1A
+1660,IRNSS-1C
+1660,IRNSS-1B
+1700,Globalstar M088
+1700,Globalstar M086
+1700,Globalstar M085
+1700,Globalstar M083
+1700,Globalstar M082
+1700,Globalstar M081
+1700,Globalstar M073
+1700,Globalstar M093
+1700,Globalstar M090
+1700,Globalstar M089
+1700,Globalstar M074
+1700,Globalstar M079
+1700,Globalstar M080
+1700,Globalstar M091
+1700,Globalstar M084
+1700,Globalstar M075
+1700,Globalstar M096
+1700,Globalstar M097
+1700,Cosmos 2501
+1700,Globalstar M078
+1700,Globalstar M077
+1700,Globalstar M095
+1700,Globalstar M076
+1700,Cosmos 2471
+1700,Globalstar M094
+1700,Globalstar M092
+175,X-Sat
+17500,Anik F3
+17500,Anik G1
+1800,TDRS-6
+1800,TDRS-5
+1800,TDRS-3
+1800,TDRS-7
+1800,Brazilsat B-3
+1800,Brazilsat B-4
+1800,Brazilsat B-2
+18000,Galaxy-3C
+18000,XM 4
+18000,XM 3
+18000,DirecTV-10
+18000,Sirius XM-5
+18000,Express-AM7
+1900,Amos 2
+19300,Intelsat 20
+2.2,CUSat-1
+20,Nanosat-1
+20,TET-1
+20,Nanosat-1B
+200,Meteosat 7
+2000,INTErnational Gamma-Ray Astrophysics Laboratory (INTEGRAL)
+2000,Intelsat APR-2
+2000,Yamal-202
+20000,Sirius FM-6
+20000,Sirius FM-5
+20000,SES-4
+20000,Echostar 11
+20000,Echostar 14
+20000,Echostar 15
+20000,DirecTV-14
+2100,Data Relay Test Satellite (DRTS)
+216,AIM
+220,Tango
+220,Samba
+220,Salsa
+220,MKA-FKI-1
+2200,Luch 5V
+224,Rumba
+2300,GOES-14
+2300,GOES-13
+2300,CBERS 4
+2300,NSS-9
+2300,TDRS-8
+2300,TDRS-11
+2300,TDRS-10
+2300,TDRS-9
+2400,Hubble Space Telescope
+2500,Chandra X-Ray Observatory (CXO)
+2530,Terra
+2600,N-Star C
+2600,Himawari 8
+2700,MTSAT-2
+273,Geomagnetic Tail Laboratory (Geotail)
+275,STSat-3
+2800,INMARSAT 3 F5
+2800,USA 174
+2800,USA 108
+2800,USA 127
+2800,USA 114
+2800,USA 95
+2900,Helios 2A
+2900,Helios 2B
+3,Jugnu
+300,Cosmos 2497
+300,Cosmos 2496
+300,Cosmos 2490
+300,Cosmos 2489
+300,Cosmos 2439
+300,Cosmos 2481
+300,Cosmos 2482
+300,Cosmos 2498
+300,Cosmos 2453
+300,Cosmos 2451
+300,Cosmos 2484
+300,Cosmos 2483
+300,Cosmos 2507
+300,Cosmos 2488
+300,Cosmos 2438
+300,Cosmos 2508
+300,BKA 2
+300,Canopus-B
+300,Cosmos 2437
+300,Cosmos 2509
+3000,INSAT 4CR
+3000,Optus B3 
+3100,INSAT 3A
+3100,Worldview 3
+3100,GSAT-6
+32,LAPAN A2
+3200,Worldview 1
+3200,INSAT 3C
+3300,AMC-8
+3300,MSAT 1
+3300,MSAT 2
+3300,Astra 1D
+3300,Sicral 1A
+340,Odin
+348,SOlar Radiation and Climate Experiment (SORCE)
+35,Microvariability & Oscillations of Stars (MOST)
+3500,TDRS-12
+3500,JCSat 2A
+3500,Mexsat-3
+3500,COMSATBw-2
+3500,COMSATBw-1
+360,DubaiSat-1
+360,DubaiSat-2
+3600,COSMO-Skymed 1
+37,LAPAN A3
+3700,Nilesat 102
+3700,Nilesat 201
+3700,Palapa C2
+3800,USA 146
+3800,Optus D2
+3800,Ibuki
+3800,USA 138
+3900,Intelsat 702
+3900,Intelsat 701
+3900,NSS-7
+4.05,GCOM-1
+40,THEMIS E
+40,THEMIS D
+40,THEMIS A
+400,ORBCOMM FM-103
+400,ORBCOMM FM-112
+400,ORBCOMM FM-113
+400,ORBCOMM FM-106
+400,ORBCOMM FM-107
+400,ORBCOMM FM-104
+400,ORBCOMM FM-119
+400,ORBCOMM FM-118
+400,ORBCOMM FM-109
+400,ORBCOMM FM-108
+400,ORBCOMM FM-111
+400,ORBCOMM FM-117
+400,ORBCOMM FM-116
+400,ORBCOMM FM-115
+400,ORBCOMM FM-114
+400,ORBCOMM FM-105
+400,ORBCOMM FM-110
+4000,Telkom 1
+406,TIMED
+414,RHESSI (Reuven Ramaty High Energy Solar Spectroscopic Imager)
+42,Rising-2
+4200,Express-AM3
+4300,Landsat 8
+4400,Astra 1F
+450,Deimos 2
+4500,Intelsat 16
+46,COSMIC-D
+46,COSMIC-B
+46,COSMIC-E
+46,COSMIC-F
+46,COSMIC-A
+4600,ArSat 2
+4600,Advanced Data Relay and Technology Mission Satellite (Artemis) 
+4600,Aura
+4600,Intelsat 15
+4700,Galaxy-14
+4700,Horizons 2
+4700,Galaxy-15
+4800,Intelsat New Dawn
+4800,ABS-7
+4800,Optus D1
+4860,Aqua
+4900,NSS-806
+4900,Intelsat 805
+5,Horyu-4
+5.4,TUGSat-1
+50,Hodoyoshi-4
+50,BeijinGalaxy-1
+50,Hodoyoshi-3
+50,Hodoyoshi-1
+500,Afristar 
+500,Jason 2
+500,Jason 3
+500,Suzaku
+500-700,Formosat-2
+5000,SES-2
+5000,SES-1
+5000,AMC-21
+5000,Thaicom-5
+5000,Optus D3
+5100,Eutelsat 12 West A
+5200,Daichi-2
+5200,JCSat 4A
+5200,JCSat R
+5200,JCSat 1B
+5400,Superbird-B2
+55,Fast On-orbit Recording of Transient Events) FORTÉ 
+55,KazEOSat-2
+550,Calipso
+550,Kalpana-1
+5500,INSAT 4A
+5500,KazSat-3
+56,Maroc Tubsat
+5600,Eutelsat 16C
+5600,AsiaStar
+5640,Syracuse 3A
+570,Cloudsat
+575,Multispectral Thermal Imager (MTI)
+5900,Thor-6
+5900,Eutelsat 33B
+5900,Eutelsat 33C
+6,Prototype Communications SATellite (PCSat)
+600,EO-1
+600,Cassiope
+6000,Express-AM2
+6000,Hispasat 1C
+6000,Skynet 5B
+6000,Skynet 5A
+6000,Express AM-22
+6000,Express-A1R
+6000,Palapa D1
+6000,Badr 6
+6000,Eutelsat 36A
+608,SWARM-B
+608,SWARM-A
+608,SWARM-C
+6200,Hispasat 1D
+6250,GSAT-8
+6500,AMC-7
+6500,AMC-10
+6500,AMC-2
+6500,AMC-11
+6500,AMC-1
+6500,AMC-3
+6600,Astra 1G
+6600,Astra 1H
+6797,Apstar 9A
+6800,ABS-6
+70,SCD-2
+70,SCD-1
+700,Meteosat 8
+700,Meteosat 9
+7000,Astra 2A
+7000,Astra 2C
+7000,Eutelsat 28B
+7000,Intelsat 906
+7000,Echostar 1 
+7200,JCSat 110
+7400,Eutelsat 8 West A
+7400,ABS-4
+7600,HellasSat 2
+7700,Sicral 2/Syracuse 3C
+7800,Astra 2B
+80,Scisat-1
+800,EROS B-1
+8000,USA 115
+8000,ChinaSat 1C
+8000,USA 164
+8000,USA 169
+8000,USA 99
+8000,USA 157
+8100,DirecTV-4S
+8100,Turksat 3A
+8200,DirecTV-8
+830,NOAA-15
+830,NOAA-18
+840,Theos
+8500,AsiaSat-8
+8500,Intelsat 902
+8500,Intelsat 904
+86,Project for On-Board Autonomy (Proba 2)
+8600,Galaxy-13
+8600,Arabsat 7F
+8600,Nimiq 2
+8600,Intelsat 903
+8700,DirecTV-1R
+8700,DirecTV-12
+900,USA 210
+900,USA 131
+900,USA 172
+900,USA 173
+900,Hisaki
+900,USA 147
+9000,ABS-3
+9000,Eutelsat Hot Bird 13A
+9000,Eurasiasat 1
+906,SARAL
+9500,Galaxy-17
+9500,ChinaSat 6B
+9500,AsiaSat-4
+9500,Amazonas-1
+955,Kompsat-2
+9600,Intelsat 10
+9700,Intelsat 5
+9900,Intelsat 9
+9900,Astra 1M
