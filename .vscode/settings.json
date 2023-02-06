@@ -11,6 +11,8 @@
         "cmap",
         "Combabox",
         "Corier",
+        "dataframe",
+        "dtype",
         "figsize",
         "fileselect",
         "gmtime",
