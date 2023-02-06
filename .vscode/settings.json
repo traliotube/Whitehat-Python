@@ -1,7 +1,5 @@
 {
     "cSpell.words": [
-        "Abhinav",
-        "abra",
         "activebackground",
         "Amnt",
         "ATOS",
@@ -13,14 +11,17 @@
         "cmap",
         "Combabox",
         "Corier",
+        "figsize",
         "fileselect",
         "gmtime",
         "googletrans",
         "imshow",
+        "ipyfilechooser",
         "ipywidgets",
         "Iyvasour",
         "kadabra",
         "Kolkata",
+        "linewidth",
         "Liquide",
         "lyvasour",
         "meowth",
@@ -43,6 +44,12 @@
         "simplecrypt",
         "speedtest",
         "squirtle",
-        "tkinterlabel"
-    ]
+        "tkinterlabel",
+        "xaxis",
+        "xlabel",
+        "xticks",
+        "yaxis",
+        "ylabel"
+    ],
+    "python.analysis.typeCheckingMode": "basic"
 }
