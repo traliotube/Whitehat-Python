@@ -2,6 +2,7 @@
     "cSpell.words": [
         "activebackground",
         "Amnt",
+        "astype",
         "ATOS",
         "Bahnschrift",
         "Bindra",
@@ -14,8 +15,10 @@
         "dataframe",
         "dropna",
         "dtype",
+        "dtypes",
         "figsize",
         "fileselect",
+        "fontsize",
         "gmtime",
         "googletrans",
         "imshow",
