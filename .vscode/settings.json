@@ -12,6 +12,7 @@
         "Combabox",
         "Corier",
         "dataframe",
+        "dropna",
         "dtype",
         "figsize",
         "fileselect",
